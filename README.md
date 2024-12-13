@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @YogyashriPatil
-- 👀 I'm a passionate coder with a knack for developing efficient and scalable software solutions. With a strong background in full-stack development, data science, machine learning, I enjoy turning complex problems into simple, beautiful, and intuitive code. Outside of coding, I'm coder.
+- 👀 I'm a passionate coder with a knack for developing efficient and scalable software solutions. With a strong background in full-stack development, data science, machine learning, I enjoy turning complex problems into simple, beautiful, and intuitive code. Outside of coding.
+  When I'm not coding, I'm still a coder at  heart, Always exploring new technologies and improving my craft. Outside of the tech world, you might find me riding cycle and listening music.
 - 🌱 I’m currently learning cohort 3.0, advanced algorithms, cloud computing
 - 💬 Ask me about: Python, Java, C++, C, JavaScript, machine learning
 - 💞️ I’m looking to collaborate on ...
