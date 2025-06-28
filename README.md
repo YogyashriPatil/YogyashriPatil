@@ -68,7 +68,7 @@ Let’s innovate together and build transformative solutions! 🌟
   <a href="mailto:yogyashripatil20@gmail.com"><img src="https://img.shields.io/badge/Email-yogyashripatil20%40gmail.com-red?style=flat-square&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/yogyashri-patil-3431a927b/"><img src="https://img.shields.io/badge/LinkedIn-Yogyashri%20Patil-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://github.com/YogyashriPatil/"><img src="https://img.shields.io/badge/GitHub-YogyashriPatil-black?style=flat-square&logo=github"></a>
-  <a href="https://twitter.com/YogyashriPatil"><img src="https://img.shields.io/badge/Twitter-YogyashriPatil-1DA1F2?style=flat-square&logo=twitter" alt="Twitter"></a>
+  <a href="https://twitter.com/YogyashriP"><img src="https://img.shields.io/badge/Twitter-YogyashriPatil-1DA1F2?style=flat-square&logo=twitter" alt="Twitter"></a>
 </p>
 
 ---
