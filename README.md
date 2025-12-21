@@ -24,7 +24,6 @@ When not coding, I’m likely riding my bike 🚴 or discovering new music 🎶.
 ### 🌱 I’m currently learning:
 
 * Advanced MERN Stack Techniques
-* Cohort 3.0
 * Advanced Algorithms
 * GenAI Development with **LangChain**, **Hugging Face**, and **Google AI APIs**
 * Cloud Computing
